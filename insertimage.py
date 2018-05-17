@@ -1,7 +1,7 @@
 import os 
-os.system('python img_db.py list/sher.jpg papu 16010101')
+os.system('python img_db.py list/16010101.jpg OM 16010101')
 os.system('python img_db.py list/16010102.jpg Dhirender 16010102')
-'''os.system('python img_db.py list/16010103.jpg Kshtiz 16010103')'''
+os.system('python img_db.py list/16010103.jpg Kshtiz 16010103')
 '''os.system('python img_db.py list/16010104.jpg Ravi 16010104')
 os.system('python img_db.py list/16010105.jpg Suraj 16010105')'''
 os.system('python img_db.py list/16010106.jpg Ranjeet 16010106')
